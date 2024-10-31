@@ -1,0 +1,75 @@
+
+
+.logo svg  {
+    width: 21px;
+    fill: white;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-right: 1px solid white ;
+    padding-right: 10px;
+    padding-top: 2px;   
+    padding-bottom: 2px;
+}
+
+.fantasma{
+    display: flex;
+    justify-content: center ;
+    flex-direction: row;
+    padding-top: 3px;
+    padding-left: 7px;
+    padding-right: 13px;
+    padding-bottom: 4px;
+    position: absolute;
+    left: -20px;
+    top: 45px;
+    border-radius: 250px;
+    width: 80px;
+    border-radius: 11px;
+    background-color: royalblue;
+    height: 25px;
+    
+}
+
+.tudo{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    width: 750px;
+    padding-top: 5px;
+    padding-left: 15px;
+    border: none;
+    background-color: #d3d3d3;
+}
+
+.span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: 20px;
+}
+code{
+    background-color: grey ;
+}
+
+.contrainer{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
